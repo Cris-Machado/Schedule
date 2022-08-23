@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MDFfW9zEjIQNppf7Ttd97LL+K2gZ7EANPxdOaBdazLc=",
+  "Source": "ScheduleSystem.API.Presentation",
+  "BasePath": "_content/ScheduleSystem.API.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

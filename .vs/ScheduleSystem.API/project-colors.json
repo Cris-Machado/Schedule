@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84782916-8576-42b2-81ab-34306b633c6b": {
+      "ProjectGuid": "84782916-8576-42b2-81ab-34306b633c6b",
+      "DisplayName": "ScheduleSystem.API.Application",
+      "ColorIndex": 0
+    },
+    "22eba77d-6e4c-4461-a52d-7544e1611e2f": {
+      "ProjectGuid": "22eba77d-6e4c-4461-a52d-7544e1611e2f",
+      "DisplayName": "ScheduleSystem.API.Domain",
+      "ColorIndex": 1
+    },
+    "8fcbc082-5f72-4e37-b122-d9506400ebf3": {
+      "ProjectGuid": "8fcbc082-5f72-4e37-b122-d9506400ebf3",
+      "DisplayName": "ScheduleSystem.API.Data",
+      "ColorIndex": 2
+    },
+    "057a92e3-e965-4b06-9d24-aec09638bd9e": {
+      "ProjectGuid": "057a92e3-e965-4b06-9d24-aec09638bd9e",
+      "DisplayName": "ScheduleSystem.API.Presentation",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d80ebb7f-0f88-4fb5-a033-d917a61c41a1": {
+      "ProjectGuid": "d80ebb7f-0f88-4fb5-a033-d917a61c41a1",
+      "DisplayName": "ScheduleSystem.API.IoC",
+      "ColorIndex": 4
+    },
+    "20a1b457-03fe-4a9d-ab1b-3133502aa7f5": {
+      "ProjectGuid": "20a1b457-03fe-4a9d-ab1b-3133502aa7f5",
+      "DisplayName": "ScheduleSystem.API.Identity",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

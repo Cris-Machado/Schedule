@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="C:\Users\crist\.nuget\packages\microsoft.net.compilers\1.0.0\build\..\tools\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ScheduleSystem.API.Identity\ScheduleSystem.API.Identity.csproj" />
+    <ProjectReference Include="..\ScheduleSystem.API.Infra\ScheduleSystem.API.Data.csproj" />
+  </ItemGroup>
+
+</Project>
